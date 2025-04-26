@@ -529,8 +529,8 @@ body{
             height: 58vh;
             background-color:var(--color3);
             background: linear-gradient(to bottom, var(--color1), var(--color4)); 
-            border-bottom-left-radius: 18px;
-            border-bottom-right-radius: 18px;
+            border-bottom-left-radius: 18px !important;
+            border-bottom-right-radius: 18px !important;
           
 
             .txt{
